@@ -1,16 +1,56 @@
-# React + Vite
+# 💻 Front-End Developer Quiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive **Quiz Application** built with React to test your knowledge in Web Development. The questions cover the core pillars of the web: **HTML, CSS, and JavaScript**.
 
-Currently, two official plugins are available:
+![Project Screenshot](./screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+* **Topic Variety:** Questions ranging from semantic HTML to advanced JavaScript logic.
+* **Instant Feedback:** Visual cues (Green/Red) indicating correct and incorrect answers immediately.
+* **Score System:** Tracks your performance throughout the quiz.
+* **Responsive Design:** Optimized for mobile and desktop screens.
+* **Result Summary:** Displays your final grade and skill level at the end.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 Topics Covered
 
-## Expanding the ESLint configuration
+* **HTML5:** Semantics, forms, and structure.
+* **CSS3:** Flexbox, Grid, Selectors, and Responsiveness.
+* **JavaScript:** ES6+ features, DOM manipulation, and logic.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+* **React.js** (Hooks: `useState`, `useContext`)
+* **CSS3** (Styled Components or Modules)
+* **Vite** (Build Tool)
+
+## 🚀 How to Run Locally
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/ianprocopio/Quiz.git](https://github.com/ianprocopio/Quiz.git)
+    ```
+
+2.  **Navigate to the project folder:**
+    ```bash
+    cd Quiz
+    ```
+
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+4.  **Run the application:**
+    ```bash
+    npm run dev
+    ```
+
+5.  Open your browser at `http://localhost:5173`.
+
+## 👨‍💻 Author
+
+Developed by **Ian Procopio**.
+* [GitHub](https://github.com/ianprocopio)
+* [LinkedIn](https://www.linkedin.com/in/ianprocopio/)
+
