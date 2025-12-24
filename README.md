@@ -2,7 +2,7 @@
 
 A modern and interactive **Quiz Application** built with React to test your knowledge in Web Development. The questions cover the core pillars of the web: **HTML, CSS, and JavaScript**.
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./quiz.png)
 
 ## ✨ Features
 
