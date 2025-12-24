@@ -52,5 +52,5 @@ A modern and interactive **Quiz Application** built with React to test your know
 
 Developed by **Ian Procopio**.
 * [GitHub](https://github.com/ianprocopio)
-* [LinkedIn](https://www.linkedin.com/in/ianprocopio/)
+* [LinkedIn](https://www.linkedin.com/in/ian-proc%C3%B3pio-0012b239b/)
 
